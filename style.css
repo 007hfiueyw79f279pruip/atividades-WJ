@@ -1,0 +1,14 @@
+body{
+  background-color: red
+}
+h1{
+  text-align: center; font-size: 60px; color: blue
+}
+p{
+  text-align: center;font-size: 70px
+}
+h2{
+  text-align: center; font-size: 60px
+}
+img{
+  image-resolution: snap;
