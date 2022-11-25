@@ -1,5 +1,5 @@
 body{
-  background-color: gray
+  background-color: black
 }
 video{
   margin-left: 35%;
@@ -19,5 +19,20 @@ img{
  margin-left: 25%
 }
 .texto{
+  color: white
+}
+header{
+  background-color: gray
+
+}
+li{
+ display:inline; margin-left: 20%;  font-size: 40px;
+}
+.cortes{
+ display:inline-flex;
+ padding-right: 100px
+}
+.atendimentos p
+{
   color: white
 }
